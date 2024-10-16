@@ -5,22 +5,17 @@ This repository contains a Bash script that automates the process of setting up 
 ### Script Features
 
 1. **Download Required Files**:
-- **Download Ubuntu 20.04 ISO image**
-- **Automation of Ventoy download and installation**
    - Downloads the latest version of Ventoy and an ISO image of Ubuntu.
    - Unpacks the Ventoy package and grants execution permissions to the Ventoy graphical interface.
 
 2. **Dependency Installation**:
-- **Installation of essential packages for compilation and development**
    - Installs essential packages for compilation and development, such as Git, CMake, MySQL libraries and Qt dependencies.
 
 3. **Qt Installation and Configuration**:
-- **Installing Qt 5.14.2 and configuring MySQL support**
    - Downloads and installs Qt version 5.14.2, granting execution permissions to the installer.
    - Configures Qt to support the MySQL connection plugin.
 
 4. **Commented Steps**:
-- **Basic Git configuration (commented)**
    - There are commented instructions for configuring Git, including setting the user name, email, cloning repositories, and initializing Git version control.
    - The script references the `up-mach.sh` file for automatic execution.
 
@@ -87,6 +82,6 @@ The script automatically installs the following packages:
 ## License
 
 This project is licensed under the MIT license - see the [LICENSE](https://spdx.org/licenses/MIT.html) file for more details.
-```
 
-This README provides a clear overview and instructions for using the script, making it easier to understand and use the project.
+
+###### This README provides a clear overview and instructions for using the script, making it easier to understand and use the project.
