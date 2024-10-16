@@ -1,4 +1,4 @@
-### Envyroment
+### Environment
 
 This repository contains a Bash script that automates the process of setting up a Linux development environment, including installing dependencies, configuring Ventoy, and supporting Qt with MySQL integration.
 
@@ -28,8 +28,8 @@ This repository contains a Bash script that automates the process of setting up 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/seu_usuario/nome_repositorio.git
-   cd nome_repositorio
+   git clone https://github.com/raphaelkaique1/environment.git
+   cd environment
    ```
 
 2. **Make the script executable**:
