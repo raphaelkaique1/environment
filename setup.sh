@@ -17,6 +17,7 @@ sudo chmod +x ~/Downloads/ventoy-1.0.99-linux.tar.gz/VentoyGUI.x86_64
 #path='github.com/any.git'
 #git config --global user.name $name
 #git config --global user.email $email
+#git config --global credential.helper store
 #git clone https://$name:$token@$path
 #cd ~/any
 #git init
