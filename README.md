@@ -17,7 +17,7 @@ This repository contains a Bash script that automates the process of setting up 
 
 4. **Commented Steps**:
    - There are commented instructions for configuring Git, including setting the user name, email, cloning repositories, and initializing Git version control.
-   - The script references the `up-mach.sh` file for automatic execution.
+   - The script references the `upsystem.sh` file for automatic execution.
 
 ## How to Use
 
