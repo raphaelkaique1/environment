@@ -9,7 +9,7 @@ tar -xzf /Downloads/ventoy-1.0.99-linux.tar.gz
 sudo chmod +x ~/Downloads/ventoy-1.0.99-linux.tar.gz/VentoyGUI.x86_64
 ~/Downloads/ventoy-1.0.99-linux.tar.gz/VentoyGUI.x86_64
 
-#sudo chmod +x $(sudo find ~ -name 'up-mach.sh' -type f) && $(sudo find ~ -name 'up-mach.sh' -type f)
+#sudo chmod +x $(sudo find ~ -name 'upsystem.sh' -type f) && $(sudo find ~ -name 'upsystem.sh' -type f)
 
 #name='name'
 #email='user@email.com'
@@ -35,4 +35,4 @@ cd ~/Qt5.14.2/5.14.2/Src/qtbase/src/plugins/sqldrivers
 ~/Qt5.14.2/5.14.2/gcc_64/bin/qmake sqldrivers.pro
 make && make install
 
-$(sudo find ~ -name 'up-mach.sh' -type f)
+$(sudo find ~ -name 'upsystem.sh' -type f)
